@@ -1,4 +1,4 @@
-_This document is also available in: [🇺🇸 English](https://github.com/nazarov-tech/rkn/blob/master/reactions_en.md)._
+_This document is also available in: [🇺🇸 English](https://nazarov-tech.github.io/rkn/docs/reactions_en)._
 
 Принимаются пулл-реквесты: вносите людей и компании, чья позиция имеет вес — в частности, появилась в медиа.  
 Старайтесь располагать хотя бы примерно по убыванию значимости.  
