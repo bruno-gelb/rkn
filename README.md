@@ -1,3 +1,0 @@
-# rkn
-
-RKN-related stuff
