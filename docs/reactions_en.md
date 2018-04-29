@@ -16,7 +16,7 @@ Found any errors — make pull-request, I will accept it on-the-spot.
 • **head of the FAS** Igor Artemiev: [this very story, its course causes great damage](https://www.gazeta.ru/tech/news/2018/04/25/n_11458789.shtml). _I hope that when this goal is achieved, everything will not be swept away at all around a mighty hurricane. We are not China, which closed_  
 • **ROCIT director** Sergey Grebennikov: [on specific examples it is clear that because of Roscomnadzor's actions, Internet business suffered, users who incurred financial losses including](https://rocit.ru/news/rocit-and-rkn-meeting)  
 • **Qrator Labs**: [millions of websites suffered from Telegram blockage](https://klops.ru/news/2018-04-17/173230-qrator-labs-iz-za-blokirovki-telegram-postradali-milliony-saytov)  
-• politician **Alexey Navalny**: [they <Roskomnadzor> in one month caused more damage to the Internet than others in other countries would have cause in years](https://youtu.be/VWXE4WybsxI?t=16m28s)  
+• politician **Alexey Navalny**: [they \<Roskomnadzor\> in one month caused more damage to the Internet than others in other countries would have cause in years](https://youtu.be/VWXE4WybsxI?t=16m28s)  
 • **Artemy Lebedev**: [how Roskomnadzor bans Telegram is an amazing performance of moronitude and unprofessionalism](https://tema.livejournal.com/2749709.html)  
 • photographer and journalist **Ilya Varlamov**: [Roskomnadzor is now running with a club over the Internet and thundering everything in its path](https://varlamov.ru/2884958.html)    
 • **the mayor of Yekaterinburg** Yevgeny Roizman: [it is resembling me how the Neanderthals with cudgels hunt to catch in the field of a sparrow](http://www.the-village.ru/village/city/news-city/309577-roizman-telegram/?)  
