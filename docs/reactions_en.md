@@ -1,11 +1,5 @@
 _This document is also available in: [🇷🇺 Russian](https://nazarov-tech.github.io/rkn/docs/)._
 
-Pull-requests are welcome: add persons and companies, whose opinions matter — particularly, published in mass media.  
-Try to roughly arrange them in the list by significance (descending).  
-Don't add anything without proofs and quotes.  
-Keep single style of the list for readability.  
-Found any errors — make pull-request, I will accept it on-the-spot.
-
 ## Raised voice against Roskomnadzor actions
 
 • **Yandex** [called the massive blocking of IP addresses by Roskomnadzor «an attack on the Russian internet itself»](https://vc.ru/37173-yandeks-nazval-udarom-po-vsemu-runetu-massovye-blokirovki-ip-adresov-roskomnadzorom).
