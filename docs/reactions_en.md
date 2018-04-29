@@ -1,4 +1,4 @@
-_This document is also available in: [🇷🇺 Russian](https://nazarov-tech.github.io/rkn/)._
+_This document is also available in: [🇷🇺 Russian](https://nazarov-tech.github.io/rkn/docs/)._
 
 Pull-requests are welcome: add persons and companies, whose opinions matter — particularly, published in mass media.  
 Try to roughly arrange them in the list by significance (descending).  
