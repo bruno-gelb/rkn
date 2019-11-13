@@ -1,4 +1,4 @@
-_This document is also available in: [🇺🇸 English](https://nazarov-tech.github.io/rkn/docs/reactions_en)._
+_This document is also available in: [🇺🇸 English](https://bruno-gelb.github.io/rkn/docs/reactions_en)._
 
 ## Высказались против действий Роскомнадзора
 
