@@ -1,4 +1,4 @@
-_This document is also available in: [🇷🇺 Russian](https://nazarov-tech.github.io/rkn/docs/)._
+_This document is also available in: [🇷🇺 Russian](https://bruno-gelb.github.io/rkn/docs/)._
 
 ## Raised voice against Roskomnadzor actions
 
